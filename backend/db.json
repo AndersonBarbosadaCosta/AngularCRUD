@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Caneta BIC Azul",
+      "price": "4.89"
     },
     {
       "id": 2,
@@ -16,9 +16,14 @@
       "price": 5000.89
     },
     {
-      "name": "Treste",
-      "price": 120,
-      "id": 4
+      "name": "celular usado",
+      "price": "20000.00",
+      "id": 5
+    },
+    {
+      "name": "Camisa",
+      "price": "195.00",
+      "id": 6
     }
   ]
 }
